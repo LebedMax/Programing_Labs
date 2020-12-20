@@ -1,0 +1,11 @@
+C:\Users\Maxim\source\repos\7_zavd\7_zavd\bin\Debug\netcoreapp3.1\7_zavd.exe
+C:\Users\Maxim\source\repos\7_zavd\7_zavd\bin\Debug\netcoreapp3.1\7_zavd.deps.json
+C:\Users\Maxim\source\repos\7_zavd\7_zavd\bin\Debug\netcoreapp3.1\7_zavd.runtimeconfig.json
+C:\Users\Maxim\source\repos\7_zavd\7_zavd\bin\Debug\netcoreapp3.1\7_zavd.runtimeconfig.dev.json
+C:\Users\Maxim\source\repos\7_zavd\7_zavd\bin\Debug\netcoreapp3.1\7_zavd.dll
+C:\Users\Maxim\source\repos\7_zavd\7_zavd\bin\Debug\netcoreapp3.1\7_zavd.pdb
+C:\Users\Maxim\source\repos\7_zavd\7_zavd\obj\Debug\netcoreapp3.1\7_zavd.csprojAssemblyReference.cache
+C:\Users\Maxim\source\repos\7_zavd\7_zavd\obj\Debug\netcoreapp3.1\7_zavd.AssemblyInfoInputs.cache
+C:\Users\Maxim\source\repos\7_zavd\7_zavd\obj\Debug\netcoreapp3.1\7_zavd.AssemblyInfo.cs
+C:\Users\Maxim\source\repos\7_zavd\7_zavd\obj\Debug\netcoreapp3.1\7_zavd.dll
+C:\Users\Maxim\source\repos\7_zavd\7_zavd\obj\Debug\netcoreapp3.1\7_zavd.pdb

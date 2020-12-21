@@ -1,0 +1,11 @@
+C:\Users\Maxim\source\repos\Samost_pob\Samost_pob\bin\Debug\netcoreapp3.1\Samost_pob.exe
+C:\Users\Maxim\source\repos\Samost_pob\Samost_pob\bin\Debug\netcoreapp3.1\Samost_pob.deps.json
+C:\Users\Maxim\source\repos\Samost_pob\Samost_pob\bin\Debug\netcoreapp3.1\Samost_pob.runtimeconfig.json
+C:\Users\Maxim\source\repos\Samost_pob\Samost_pob\bin\Debug\netcoreapp3.1\Samost_pob.runtimeconfig.dev.json
+C:\Users\Maxim\source\repos\Samost_pob\Samost_pob\bin\Debug\netcoreapp3.1\Samost_pob.dll
+C:\Users\Maxim\source\repos\Samost_pob\Samost_pob\bin\Debug\netcoreapp3.1\Samost_pob.pdb
+C:\Users\Maxim\source\repos\Samost_pob\Samost_pob\obj\Debug\netcoreapp3.1\Samost_pob.csprojAssemblyReference.cache
+C:\Users\Maxim\source\repos\Samost_pob\Samost_pob\obj\Debug\netcoreapp3.1\Samost_pob.AssemblyInfoInputs.cache
+C:\Users\Maxim\source\repos\Samost_pob\Samost_pob\obj\Debug\netcoreapp3.1\Samost_pob.AssemblyInfo.cs
+C:\Users\Maxim\source\repos\Samost_pob\Samost_pob\obj\Debug\netcoreapp3.1\Samost_pob.dll
+C:\Users\Maxim\source\repos\Samost_pob\Samost_pob\obj\Debug\netcoreapp3.1\Samost_pob.pdb
